@@ -1,0 +1,264 @@
+/**********************
+* New Customized style for 2018 Yale-New 
+* Haven Teacher Institute
+* Static site.
+*************************/
+
+.offscreen {
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	left: -999px;
+	overflow: hidden;
+	z-index: -999;
+}
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+.dropdown-menu{
+	width: 100%;
+	border:none;
+	padding: 0;
+}
+
+.navbar-light .navbar-nav .show > .nav-link{
+	color: #fff;
+	background-color: #2B50A3;
+}
+.dropdown-divider{
+  margin: 0;
+}
+.dropdown-item{
+	padding: .5rem 1.5rem;
+	color: #2B50A3;
+	font-size: 18px;
+	background-color: #f2f2f2;
+	text-align: center;
+}
+.dropdown-item:hover{
+ background-color: #2B50A3;
+ color: #fff;
+}
+
+main a, footer a{
+	color:#2b50a3;
+	text-decoration: underline;
+}
+main a:hover, footer a:hover{
+	font-weight: bold;
+}
+
+.footer-region, .region-content{
+padding:0 3%;
+}
+
+.footer-region{
+margin:0 1%;
+}
+
+/* Main Menu style*/
+
+.navbar{
+ padding: .5rem 0;
+}
+.ynhti-nav{
+ justify-content: space-between;
+ width: 100%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+padding:0.5em 1em;
+ color: #2B50A3;
+ font-size: 18px;
+ background-color:#f2f2f2;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+	background-color: #2B50A3;
+	color: #fff;
+}
+
+.nav-item{
+margin-right:4px;
+flex-grow: 1;
+}
+
+/* buttons */
+.btn-primary{
+ background-color: #f2f2f2;
+ font-size: 18px;
+ border-color:#e4e4e4;
+ color: #00853E;
+ border-radius: 0; 
+ font-family: "YaleNew";
+ text-decoration: none;
+}
+
+/* global fonts*/
+body, p, span, div{
+font-family:"TheSans";
+font-size: 16px;
+line-height: 28px;
+color: #504D49;
+}
+
+h1{
+ font-family: "YaleNew";
+ font-size:48px;
+ color: #2b50a3;
+}
+
+h2{
+ font-family: "YaleNew";
+ font-size:28px;
+ color: #2b50a3;
+ line-height: 32px;
+}
+
+h2.alt{
+ font-family: "YaleNew";
+ font-size:24px;
+ color: #00853E;
+}
+
+h2.tc{
+ font-family: "TheSans";
+ font-size:20px;
+ color: #504D49;
+}
+
+h3{
+ font-family: "TheSans";
+ font-size:16px;
+ color: #504D49;
+}
+
+h4{
+ font-family: "YaleNew";
+ font-size:18px;
+ color: #504D49;
+}
+
+h4.tcl{
+ font-family: "YaleNew";
+ font-size:18px;
+ font-weight: bold;
+ color: #504D49;
+}
+
+h4.tcl:hover{
+  color: #2b50a3;
+}
+
+h5{
+  font-family: "TheSans";
+  font-size: 13px;
+  color: #00853E;
+}
+
+/* ======== Curricular Resource Pages style ===========*/
+.table_content_label{
+border:1px solid #504D49;
+border-left:none;
+border-right:none;
+padding:0.2rem 1.5em;
+display:block;
+text-align:center;
+text-transform:uppercase;
+font-family:"TheSans";
+font-size: 20px;
+color: #504D49;
+}
+.main_content{
+border-top:1px solid #504D49;
+}
+.volum_label{
+font-weight:bold
+}
+.tc_aside{
+margin-right:3%;
+}
+
+/* Aside blocks style*/
+.block-block{
+border:1px solid #504d49;
+}
+
+/* Footer style */
+footer{
+background-color:#f2f2f2;
+}
+.footer-menu li{
+list-style:none;
+}
+footer label{
+color:#504D49;
+font-family: "YaleNew";
+font-size:28px;
+}
+
+
+/* ========== Search ==========*/
+#siteSearchBox{
+	min-width:300px;
+	max-width:400px;
+	border:#009 solid 1px;
+	text-align:center;
+	padding:10px;
+}
+#siteSearchBox h1{
+	font-size: 120%;
+}
+#siteSearch{
+	min-height:40px;
+	display:block;
+}
+#siteSearchOptions, #siteSearchBox h1, #siteSearchBox p{
+	padding:0!important;
+	margin:0!important;
+}
+#siteSearchOptions{
+	list-style-type:none;
+	text-align:left;
+	width:80%;
+	display:inline-block;
+}
+#siteSearchOptions li{
+	padding-left: 20px;
+	background-image: url("/pix/unchecked.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 15px 15px;
+}
+.selectedSiteSearchOption{
+	background-image: url("/pix/checked.png")!important;
+}
+/* Google Site Search */
+.gsc-control-cse, .gsc-control-cse-en{
+	padding:0!important;
+	margin:0!important;
+}
+.gsc-control-cse{
+	background-color:transparent!important;
+	border-color:transparent!important;
+}
+.gsc-tabhInactive, .gsc-tabhActive{
+	margin-left:5px!important;
+}
+.cse .gsc-control-cse, .gsc-control-cse{
+	padding:0!important;
+}
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus{
+	background-color:#0e4d92!important;
+	border-color:transparent!important;
+	border-radius:0!important;
+}
+.cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2{
+	padding: 6px 7px!important;
+}
+.gsc-input{
+	background:transparent!important;
+}
+.gsc-resultsbox-visible{
+	text-align:left!important;
+}

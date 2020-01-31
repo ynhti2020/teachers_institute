@@ -1,0 +1,803 @@
+---
+layout: "page"
+title: "American Detectives: On TV and in Books"
+path: "/pubs/A5/marshall.html"
+---
+<main>
+<a name="top">
+<center><h2>American Detectives: On TV and in Books</h2><p>
+<font size="+1">by<br/>Jane K. Marshall</font></p></center>
+<hr/>
+<h4>Contents:</h4>
+</a><ul><a name="top">
+</a><a href="#a"></a><li><a href="#a">Narrative</a>
+<a href="#b"></a></li><li><a href="#b">Perry Mason</a>
+<a href="#c"></a></li><li><a href="#c">Virgil Tibbs</a>
+<a href="#d"></a></li><li><a href="#d">Spenser</a>
+<a href="#e"></a></li><li><a href="#e">Additional Lesson Plans</a>
+<a href="#f"></a></li><li><a href="#f">Student Reading List</a>
+<a href="#g"></a></li><li><a href="#g">Teacher Reading List</a>
+<a href="#h"></a></li><li><a href="#h">Film</a>
+</li></ul>
+<h4>
+<a href=".\">Teaching in New Haven: Table of Contents</a> |
+<a href="..\..\">Yale-New Haven Teachers Institute</a>
+</h4>
+<hr/> <a name="a"> This unit was written as a final chapter for a book I
+have prepared based on units written during my eleven-year affiliation
+with the Yale-New Haven Teachers Institute. The book, <i>The Eyes Have It:
+Exploring Literature and History Through the Visual Arts,</i> provides a
+sequence of study which I use in a course simply called “Visual Art and
+Literature.” This course enables students to acquire analytical skills; to
+perceive the visual arts, as well as literature, in historical or cultural
+contexts; and/or to realize the notion of individual and cultural
+discovery. I teach the course currently to a mixed class of college-bound
+and work-bound seniors, although I have used various parts of the program
+with younger high school students, and I have also taught the entire
+course to college-bound juniors. 
+<p>
+“Visual Art and Literature” comprises a two-period-a-day semester-long
+program. Students consider the visual media of painting, photography,
+film, and television drama along with literature. For example, a
+comparative look at painting and poetry reveals that both forms of art
+manifest such elements as mood, metaphor/symbol, and pattern. Often visual
+and written works of art are paired in “Visual Art and Literature” so that
+students are provided with two keys, as it were, to the understanding of
+particular cultures. Students learn how to approach various media through
+a study of a material culture method of analysis developed by Jules Prown
+(Paul Mellon Professor, History of Art, Yale University). They also learn
+about various elements of particular art forms and the relationship
+between these elements and the tools used by the poet and the fiction
+writer. For example, in the film chapter, “America in Film and Fiction,”
+students consider point of view as a technical and thematic topic in a
+concurrent study
+of film and the short story.</p><p>
+“American Detectives: On TV and in Books” deals with the notion that
+popular works reflect the concerns, beliefs, and dreams of particular
+societies. Through engagement with detective stories and television
+programs of varying times and places, students are encouraged (once again
+as in preceding units) to discover “social history.”</p><p>
+The practice of extended engagement with what audiences usually accept at
+face value also enables students to note and ultimately to question the
+validity of the assumptions of story-tellers—evident in stereotyping, for
+example. Students then become true critics of the popular culture which to
+a certain extent envelopes us all—learning to break through the
+complacency of acceptance: “This is the way things must be,” and, one
+hopes, discovering the possibilities in their roles as consumers of
+popular myths .</p><p>
+Although “American Detective: On TV and in Books” works well as the last
+chapter of<i> The Eyes Have It, </i> for it follows cultural discoveries
+made
+through studies of painting, photography, and film, I believe that it
+could be taught fruitfully as a single unit. “American Detectives” in
+essence deals with the inherent problems associated with the use of video
+material in the classroom. Who among us has not been disappointed with the
+results of the “film version” activity (following the reading of a
+novel)?</p><p>
+Such a concluding activity seems appropriate, yet though the students are
+encouraged to weigh the merits of the books and films respectively, all
+too often the resultant discussions are desultory and forced. Experience
+tells me that only the most sophisticated of high school classes will view
+film versions seriously and critically.</p><p>
+I suspect that students often see the film version activity as a reward
+for reading accomplished or as a break from the rigors of English class.
+This reaction is exactly antithetical to the original purpose, for the
+message as received by students, though
+not the intended message, to be sure, undermines both the entertainment
+value of reading and the seriousness of film study. In other words, with
+the concluding film version activity, old prejudices may well be
+reinforced; i.e., “reading is work, film-viewing is fun.” Certainly
+reading detective fiction need not be regarded as a chore, and students
+can be taught to view films/TV critically. Clearly, some experimentation
+is in order.</p><p>
+Given the difficulties of teaching film versions mentioned above, one
+might question the notion of using such video material at all. While it is
+true that I have seen little in the way of outside reading material in the
+possession of my students, and while it is also true that I would love to
+be instrumental in seeing to it that by students becoming “hooked on”
+detective fiction, I am faced by an even larger truth: many of my students
+have been raised on “Sesame Street,” not Winnie the Pooh. The Hardy Boys
+and Nancy Drew were introduced to them, not in books, but through the
+powerful medium of television. As a result of years of television
+exposure, my students know many of the characters I met through detective
+fiction series: Spenser, Hawk, Perry Mason,
+Hercule Poirot, Jane Marple, Travis McGee. The list goes on and on.</p><p>
+A quick perusal through a current <i>TV Guide</i> quells any notion that
+detective stories might be on the wane on TV while on the rise in written
+form. Detectives and their stories are enormously popular; they hold a
+piece of the prime time action virtually every night of the week. Though I
+am not a fan of TV and especially not an advocate of “Sesame Street”
+(which moves too fast, so that young children are actively steered away
+from the notion of reflection) I suspect that, given the right emphasis,
+the medium
+of television might paradoxically be used to promote reflection and even
+reading.</p><p>
+I use current and not so current television fare during the course of this
+unit. Initially, these television shows serve to introduce characters and
+the structure of the detective story to students. Because many of my
+students are non-readers, the prospect of a new book in English class
+often precipitates student anxiety. Though they are cautioned that the
+first twenty pages or so of a novel often provide introductory material
+regarding characters, setting, and form, we inevitably dance around the
+“this s boring” scenario until the novel is well under way. Providing
+students with introductory material in the form of TV shows lessens their
+anxiety and keeps my temper in check.</p><p>
+More important, television shows such as “Perry Mason” and “Spenser: for
+Hire” are viewed seriously. That is, students are encouraged to analyze
+these shows with respect to their places in time. For example, we are able
+to discern the values, concerns, and/or preoccupations of the late
+‘50s/early ‘60s by asking the right questions of the “Perry Mason”
+re-run.</p><p>
+Essentially this unit is organized along a time line. Students view and
+read of Perry Mason, Virgil Tibbs, and Spenser in that order. The pairing
+of the television show and novel (with the television show usually coming
+first) leads ultimately to a critique of each medium. Television is not
+“run down,” and students are encouraged to assess seriously each medium
+with regard to entertainment value and educational usefulness. The right
+questions have to be posed, and I have to watch carefully lest my own
+prejudices get in the way. Yet, I believe that the visual and written
+pairings lead to all sorts of discoveries about television, novels, and
+ourselves.</p><p>
+All of the shows viewed and the novels read are American. I am most
+interested in looking at the development of the American fictional
+detective over time. These figures are always in some sense both heroic
+and mundane, and therefore, it seems to me, reflect both what we are and
+what we long to be at any given juncture. Of course, it is most
+interesting to assess the television and novel renderings of character. If
+differences are especially discernible, we must ask ourselves why this is
+so.</p><p>
+The pairings to be studied in this unit are as follows: Perry Mason re-run
+/ <i>The Case of the Spurious Spinster,</i> by Erle Stanley Gardner; “In
+the Heat
+of the Night” (current TV) / <i>In the Heat of the Night,</i> by John
+Ball;
+“Spenser: for Hire” (current TV) / Mortal Stakes, by Robert Parker.</p><p>
+It should be stated at the outset that the books considered in this unit
+vary in terms of merit. All have some merit, of course, but certainly some
+works are superior to others. Perhaps providing students with a
+cross-section of the genre, or including stellar and not so stellar
+examples of writing, enables them to begin their own process of
+fiction/writing assessment.</p><p>
+Largely because of my own experiences as a high school student, I have
+concluded that popular literature has a place in the classroom for several
+reasons: 1) it is usually accessible to students 2) much of it is
+worthwhile 3) asking students to assess both the entertainment value and
+the educational value is fair game. I believe that the assessment exercise
+is satisfying to students, and yields interesting results for all
+concerned. All of the books in this unit might be labeled “popular.” That
+is, all have sold reasonably well to fairly large audiences. As most
+reflect a particular time and/or place in our culture, we might consider,
+as a concluding activity, the idea of popular tastes. How have tastes
+changed over time? Why?</p><p>
+What follows are fairly brief critiques of the paired television shows and
+books. These critiques provide the reader with an overview of salient
+themes which emerge through both content and style. Questions which might
+help students to discover the social-historical significance of such works
+are included as are questions or topics which might aid students in
+forming their own critiques of these novels and television shows.</p>
+</a><center><a name="a"></a><div align="right"><a name="a"></a><p><a name="a">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+<hr/>
+<a name="b">
+<h3>Perry Mason</h3>
+While one is reading Erle Stanley Gardner’s work or viewing the Perry
+Mason television program, one is immediately struck by the formality of
+the character of Perry Mason. Like Sherlock Holmes and Nero Wolfe, Perry
+Mason is essential cerebral and/or emotionless. He has no personal life—no
+wife, no close friends, and his relationship with his subordinates, Della
+Street and Paul Drake, is merely professional. One wonders why Paul and
+Della (like John Watson before them) are so eager to support this rather
+cold and asocial man, for they are essentially used by Mason as, albeit
+sophisticated, errand people. Moreover, they are never trusted with
+Mason’s musings until a case is over, and are made to look foolish time
+and time again.  <p> Some might conclude that Gardner was working in the
+tradition of Sir Arthur Conan Doyle. That is, his detective, like Holmes,
+was deliberately created as a loner for the sake of the surprise ending,
+and/or that Mason must remain enigmatic or tight-lipped until the end of
+the story lest the puzzle be spoiled. Though I do not dispute such
+conclusions, I also believe that such a character reflects his time.</p><p>
+I suggest that the formality of Mason, along with the lack of any interior
+monologue (thought) among any of the characters, and Gardner’s heavy
+emphasis on plot, serve to underscore a time of isolation, duplicity,
+and/or frantic action, and paranoia. Perry Mason is enigmatic, for he
+trusts no one. Characters whose thoughts are never shared remain estranged
+not only from each other but from the reader as well. The result of such
+deadening isolation, and ironically also the precursor to increased
+isolation,
+are conditions of fear and duplicity. In other words, with his work,
+Gardner creates the image of an isolating and paranoid world—a world which
+paradoxically seeks to counteract the effects of duplicity with increased
+experimentation in duplicity. It seems to me that both the television show
+and the novel, <i>The Spurious Spinster,</i> concern themselves with such
+themes.</p>
+<h4>“Perry Mason” television show</h4>
+The theme of duplicity is played out in any number of ways in the
+television show. Characters include a bigamist who is also a blackmailer,
+and an ex-convict who has taken on the identity of a handy-man so as not
+to embarrass his supportive and socially prominent brother. When the
+bigamist turns up dead, it would seem likely that he had experienced many
+a blackmailer’s end. Yet, a friend of his young wife is framed for the
+killing. We learn early on that this unfortunate woman had learned of the
+bigamy, and thus was put in the unenviable position of needing to prove
+such allegations. Luckily, she had consulted Mason when she felt her life
+was threatened by the bigamist, for when he is found dead virtually all of
+the physical evidence points to her as the killer.
+<p>
+This rather convoluted plot, complete with the red herring of blackmail,
+ends with evidence of yet another duplicity—and perhaps the most
+unsettling of them all. We eventually discover that the husband was killed
+by his wife, and that it was she who arranged to have her friend framed
+for the murder. Such a denouement is especially bleak, for it raises all
+sorts of questions about friendship and trust. Why is this woman, the
+essential innocent, used in such a way by a friend? By extension the
+viewer might ask: Whom can I trust? Could I, as an innocent, be so easily
+trapped and (nearly) lost? Such questions underscore a theme put forth by
+Gardner: Modern society, that is, the society of the late ‘50s and early
+‘60s, breeds selfishness, duplicity and isolation. Can paranoia be far
+behind?</p><p>
+This sense of paranoia and/or the acceptance of duplicity as a given,
+which the television show hints at, becomes understandable when one thinks
+about the time period of the late ‘50s and early ‘60s or when one recalls
+the Cold War, nuclear weapons build-up, and the myriad political scandals
+and assassinations of the time—as an aside it is interesting to note that
+the years of the late ‘50s and early ‘60s are often portrayed
+nostalgically in current films and television shows. Perhaps we choose to
+forget the difficulties of the past because our own preoccupations seem
+essentially “new.” Yet, the evidence of the Perry Mason show points to the
+continuum of preoccupation with the lost values and alienation depicted in
+the current film, “Wall Street,” for example.</p><p>
+When viewed as an allegorical image of the late ‘50s, the Perry Mason show
+too speaks to a loss of values, trust, and to a diminished confidence in
+modern man’s ability to govern himself or find happiness and peace. To be
+sure, there is a Perry Mason to sort out the particular conundrum, but
+there is also the realization that such a plot will be played out time and
+again, or that there is no real solution to the essential dilemma put
+forth. Perhaps we can take comfort in the notion that each generation
+recognizes its problems and is outraged enough to call attention to them
+through popular culture. In other words, though detective stories are
+often bleak, they do not advocate complacency or nihilism, but rather
+restate the problem with the hope that someone will take notice.</p>
+<h4><i>The Case of the Spurious Spinster</i></h4>
+Like the television show discussed above,<i> The Case of the Spurious
+Spinster</i> involves the set-up of an innocent woman, and once again this
+woman is framed for the murder by another woman. Through an elaborate
+scheme of embezzlement, which leads inexorably to kidnapping and murder, a
+governess manages to tap into her employer’s company so as to gain the
+necessary funds to escape her dreary existence. Once again, Mason is able
+to work through the mire of duplicity and false personae in order to save
+the innocent (and remarkably foolish) young woman in distress.
+<p>
+What makes this novel especially interesting is a subtheme and/or its
+portrayal of women and their then changing roles in society. Gardner gives
+us views of several women in the business world, not very flattering views
+to be sure, but enlightening views all the same; we are privy to Gardner’s
+(and society’s) concerns about the emergence of corporate women in the
+early ‘60s.</p><p>
+<i>The Case of the Spurious Spinster</i> is in form remarkably like the
+television show. Plot is paramount. Full character development is not
+attempted. We are not given even a glimpse into the private lives of Perry
+Mason and his entourage, nor are we allowed to see the perpetrators of the
+crimes and their victims in any setting save that of the business world.
+These characters thus remain types. In particular, Gardner created
+caricatures of various types of women in the world of work.</p><p>
+He offers, for example, Miss Corning, who, as head of a corporation, falls
+victim to embezzlement and attempted murder. She is tyrannical, arrogant,
+rude, and often described as “mannish.” She does not see things too
+clearly. Lest we miss that point, Gardner makes her literally near-blind. 
+In one sense she is the “spurious spinster” of the title, for we learn
+that, strident voice notwithstanding, she is not in control of her company
+or herself; far from being the imposing force she wishes to project, she
+is, in fact, easy prey or essentially weak. One might speculate that this
+rendition of a woman in power reflects a concern of Gardner and society,
+i.e., would women placed in positions of power turn “mannish,” yet remain
+essentially weak?</p><p>
+It is interesting to note that the two women perpetrators who engage in
+embezzlement, kidnapping, and murder, do so in order to escape from what
+might be described as feminine jobs and/or employment which requires
+workers to perform nurturing roles. (One woman is a governess; the other
+is a nurse.) These modern-day Lady Macbeths are clearly obsessed with the
+procurement of power and stop at nothing in their attempt to rule actively
+over others rather than remain in positions which imply a passive support
+of others. Their obsessions result not only in a loss of the nurturing
+quality associated with women, but also in the loss of the basic human
+qualities of compassion and dignity. With their acceptance of the “dog eat
+dog” credo, these women exhibit what some might call the animalistic
+reaction of killing when cornered or crossed.</p><p>
+Clearly, this story, like many others, illustrates a madness often
+associated with quests for power. Perhaps more important, these particular
+characters encourage the reader to question the notion of feminine and
+masculine roles in society. These women certainly do not fill the
+stereotypical view of women as society’s nurturers. One wonders whether
+the pressure for conformity to the stylized version of womanhood caused a
+heightened aggression in these women and/or led ultimately to expressions
+of obsession and madness. One might speculate that Gardner and the society
+of the early ‘60s realized that “ready or not” women had to be allowed
+some autonomy or choice of workplace; or perhaps they simply asked the
+question: Might failure to recognize and accept the notion of women’s
+changing attitudes toward work prove more disastrous?</p><p>
+With the characterization of Mason’s client who is neatly framed for
+embezzlement and murder, Gardner presents yet another type of working
+woman. Sue Fisher is an excellent secretary who is loyal to her employer.
+She is intelligent and able to make decisions on her own. Ironically, it
+is her ability and willingness to go beyond her duties as an office worker
+which land her in trouble. The perpetrators of the crimes can count on
+Miss Fisher to act quickly on behalf of her boss and company, and
+therefore they can easily place her in seemingly compromising conditions.</p><p>
+Miss Fisher’s naiveté regarding the seamier side of the business world is
+a handicap which nearly deprives her of her reputation and her freedom;
+were it not for Perry Mason, she would most certainly be lost. Mason, who
+is wise in the ways of dark motivations, and is a puzzle-solver
+extraordinaire, does his utmost to protect Sue Fisher. His is a
+paternalistic stance which conveys the message: “Do what I say, and do not
+ask any questions.” When, inevitably, Miss Fisher fails to follow Mason’s
+instructions, she immediately puts herself in jeopardy.</p><p>
+Today’s reader might find Mason’s paternalism toward and power over women
+unacceptable. Yet, it seems to me that, in one sense, Gardner was simply
+attempting to illustrate the complexity of the business world. Miss
+Fisher, the essential innocent, must learn of the darker side of human
+behavior while she accepts the guidance of one well-versed in corruption
+and duplicity. Put another way, Gardner portrays the modern world as
+complex and dangerous; failure to recognize and do battle with one’s
+enemies results in destruction. Though Gardner’s depictions of women in
+the business world seem at best dated, and at worst patronizing, today,
+The Case of the Spurious Spinster serves to illustrate the concerns and
+assumptions of the early ‘60s. As a “living” bit of social history,
+perhaps it cannot be faulted.</p><p>
+<i>Some Questions for Students:</i></p>
+</a><dl><a name="b"><dt>1. What qualities enable Perry Mason to win his cases?
+</dt><dt>2. Why is Perry Mason portrayed as a loner (no family, no close friends)?
+</dt><dt>3. Compare the character of Perry Mason with other ’50s men portrayed
+in television re-runs. As a stereotype of a successful man of the late
+’50s, what qualities of Mason’s are stressed? How is he different from
+’80s detectives portrayed on television
+?
+</dt><dt>4. Give examples of duplicity in the television show and novel. Do
+such works reflect the real dangers of modern living, or do they
+exaggerate the condition of man’s isolation and/or the dangers of
+trusting? Do these works portray a paranoid world? If
+so, to what purpose?
+</dt><dt>5. How are women portrayed in the television show. Are they dominated by men? If so, in what ways? Are they different from women portrayed on television today? Explain.
+</dt><dt>6. Why does the author create types rather than full-blown characters
+in <i>The Case of the Spurious Spinster?</i> Describe the types portrayed
+by Miss
+Corning, Susan Fisher, Elizabeth Dow, Cindy Hastings. 
+</dt><dt>7. Why is the focus on women in the business world? What point(s) does Gardner make about women’s roles in society? Might an ’80s author make the same point(s)? Explain.
+</dt><dt>8. How did the clothes worn by the characters in the television show reflect the time period in question? (Compare with clothes of today.)
+</dt><dt>9. Compare the plots of the television show and the novel. Which was more interesting? Why?
+</dt><dt>10. Is Gardner’s work easily transferred to the medium of television? Explain.
+</dt></a><dt><a name="b">11. What did you learn from <i>The Case of the Spurious Spinster?</i>
+Would
+you rate it as a “good” book or as educational? Explain. Was it
+entertaining? Explain. 
+</a><center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+<hr/>
+<a name="c">
+</a></dt></dl><h3><a name="c">Virgil Tibbs</a></h3><a name="c">
+John Ball, unlike Erle Stanley Gardner, created a fully delineated
+detective in Virgil Tibbs. Though Tibbs remains a loner, this is through
+no choice of his own; rather, he is forced into such a position as a
+victim of prejudice. Ball provides the reader with the thoughts of Tibbs
+(and other characters as well). We learn of Tibbs’ family, of his
+educational and employment backgrounds, of his disappointments and his
+concerns. In fact, Tibbs emerges as a flesh and blood character whom the
+reader gets to know. He is memorable—not for his feats of logic—but for
+his complex personality.
+<p>
+Perhaps this full-blown characterization enabled the film-maker to create
+the immensely popular and critically acclaimed film,<i> In the Heat of the
+Night.</i> It is interesting to note that the film was released about
+twenty
+years ago, and that Virgil Tibbs has
+been resurrected once again in yet another “In the Heat of the Night”—the
+’80s television show. I have decided at this juncture to reverse my
+earlier decision to use TV as an introduction to character. It seems to me
+that students should be introduced to
+the original Virgil Tibbs first. When we have completed our study of the
+novel, <i>In the Heat of the Night,</i> and/or thought about its rendering
+of a
+particular person in a particular place and time, perhaps we will be in a
+position to appreciate the longevity of the character, Virgil Tibbs.</p>
+<h4>In the Heat of the Night</h4>
+<i>In the Heat of the Night</i> is a fast-paced book set in a moribund
+town. The
+nightmarish quality of the plot’s twists and turns mirrors the frantic
+actions and reactions of Wells’ populace who, with few exceptions,
+pitifully scramble for mere and illusionary vestiges of dignity and
+respect. Wells is also a hellishly claustrophobic place of meticulously
+labeled social strata and, paradoxically, no real power base. Off the main
+highway, both literally and figuratively, Wells is a place we would like
+to forget. 
+John Ball wisely forces us to take a long, hard look at that which we
+would rather by-pass. By forcing the reader to reside in Wells for a
+while, he is able to illustrate the horror and, equally important, the
+pity of ignorance and prejudice. 
+<p>
+Though <i>In the Heat of the Night</i> is told from an omniscient point of
+view with the thoughts of many characters made available for the reader,
+its focal point rests squarely on one Sam Woods. That is, it is Woods’
+perspective which dominates the novel. Perhaps this is so in part because
+major characters, Gillespie and Tibbs, are new-comers and outsiders to
+Wells. To be sure, Gillespie is trying to break into Wells’ society while
+Tibbs would just as soon turn his back on it, but the fact remains—neither
+man is a native, and as vulnerable as Tibbs and Gillespie are, neither man
+is as vulnerable to the thought patterns and the subtle dangers of Wells
+as is one of its own.</p><p>
+Virgil Tibbs, because he is an outsider and black, is initially arrested
+as a suspect for murder by Sam Woods. Woods and Gillespie (as prompted by
+the town council) seek a quick and preferably straight-forward answer to
+the outrage of murder. A thoughtful
+and circumspect investigation is not suggested by the town fathers;
+rather, the opposite is hoped for. It is in the best interest of the town
+to find a perpetrator to appease the wealthy Mr. Endicott and insure that
+the murder victim’s plan for a music festival remains intact.</p><p>
+Gillespie, with his own career advancement to think of, eventually arrests
+two innocents, one Harvey Oberest and his own deputy, Sam Woods, on
+clearly flimsy and circumstantial evidence. Were it not for Virgil Tibbs,
+the town fathers would have had their
+man, and the corruption beneath the false rock of respectability of Wells
+might never have been unearthed.</p><p>
+Needless to say, Virgil Tibbs meets resistance at virtually every turn. He
+endures verbal insult and the threat of physical injury with remarkable
+integrity. He is a seeker of truth—an intelligent man of self-respect who
+can afford to respect others. Easy
+answers of black and white or right and wrong are seen by Tibbs as just
+that—easy and superficial. According to Tibbs’ actions human behavior is
+complex and not easily relegated to merely the good and evil of things. 
+Thus while Tibbs recognizes the in-bred racist responses of Sam Woods, for
+example, he recognizes as well the essentially good man beneath the
+damaged veneer. Virgil Tibbs lives by a code of honor and dignity. Even
+the spectre of blind prejudice is diminished at least for a time in his
+presence, for Virgil Tibbs does uncover the truth.</p><p>
+We eventually learn that it is the most damaged contingent of Wells which
+is responsible for the murder. Ralph, the pathetically ignorant and
+despised counterman, who is vociferously racist as a desperate plea for
+respect, is as much victim as perpetrator. He is entrapped by an equally
+pathetic teenager, Delores Purdy, who attempts to use her sexuality to
+escape her “white trash” roots. (The accidental killing of Mantoli occurs
+during an attempted robbery [by Ralph] for the procurement of money for an
+abortion for Purdy.) These are pitiful and sordid acts which underscore
+all of the weaknesses of Wells’ stratified society and/or perhaps
+illustrate a moribund South of the 1960s. For where does one place the
+blame for the destructive actions of the pitifully ignorant and bigoted?
+How is self-respect and respect for others to be instilled in those who
+are destined for economic (and thus social) disaster?</p><p>
+<i>In the Heat of the Night</i> illustrates all forms of prejudice in
+myriad
+examples of characters’ stereotyping and various levels of destructive
+ignorance. Yet, perhaps more forceful is the depiction of those who
+instinctively recognize and are ashamed of their prejudiced
+attitudes—those who, like Sam Woods, nevertheless give in to inherited
+social pressure out of fear of reprisals. One hopes that Sam Woods has
+grown—or at least has learned that even the most seemingly innocuous form
+of prejudice may result in self-destruction. But, sadly, by book’s end it
+is not clear that he (or Gillespie) have really understood.</p>
+<h4>“In the Heat of the Night” television program</h4>
+Though there are many correlations to be drawn between the television
+episode in question and the novel,<i> In the Heat of the Night,</i> the
+television show, unfortunately, presents an easy and superficial response
+to the problems of racism and violence. The plot is problematic and
+essentially weak, and, more important, the characters of Tibbs and
+Gillespie are virtually unrecognizable as John Ball’s original characters. 
+While the novel, <i>In the Heat of the Night,</i> is disturbing for the
+complex
+questions it raises, the television version is disturbing for its
+simplistic rendering of community and character. In a sense the television
+show trivializes Ball’s work with its attempt to portray an economically
+revitalized and (albeit uneasily) integrated South. 
+<p>
+Like the novel, the television show focuses on a home-grown policeman who
+is unjustly accused of a crime. However, Bubba is a watered-down version
+of Sam Woods. Like Woods, Bubba occasionally articulates racist attitudes,
+but these are written off as unfortunate mistakes made in the heat of
+anger. Virgil Tibbs’ initial response to Bubba’s expression of racism:
+“The truth of a man usually comes out when he is angry” is a throw-away
+line. Tibbs all too easily eats those words in an undignified effort to
+cement his superficial relationship with Bubba.</p><p>
+Essentially the Howard Rollins characterization of Virgil Tibbs is a
+travesty of the original Tibbs. He is a reactor rather than a thinker.
+(The case in question is virtually solved by accident.) More disturbing is
+his “side-kick” mentality; at every turn
+he defers to the real man of power, Gillespie. Carol O’Connor’s Gillespie
+is also a travesty of Ball’s creation. O’Connor portrays, not a weak man
+plagued by self-doubt, but a wise-cracking, in-control tyrant who manages
+all manner of people and problems
+in his realm with “down-home” humor and beautifully articulated but
+nonetheless intellectually insulting platitudes. The message of the
+television program seems to be: the issue of racism (and any other issue
+one might want to think of) is dead; don’t bother to think about it.</p><p>
+The crimes in question have nothing to do with racism. The rape of a white
+woman and the attempted rape of a black woman are crimes committed by
+someone barely even recognizable to the viewer. The motive for such crimes
+remains unknown. (We are to regard the crime of rape as “just one of those
+things,” it seems.) The motive for a cover-up by the white woman is as
+pathetic as Delores Purdy’s motive for blackmail; however, the motive as
+articulated in the television show is also ridiculously unbelievable: The
+woman could not reveal her employer-turned-rapist because he (alone in the
+economically sound Sparta) offered her a bit more than the minimum wage as
+a store clerk, and she needed the job. Thus it seems that even the
+socio-economic issues raised by John Ball are to be trivialized in the
+’80s version of <i>In the Heat of the Night.</i></p><p>
+To be sure, we must concede that the television show is attempting to
+depict an ’80s rather than a ’60s Southern town—or is it? Obviously,
+Sparta is not Wells. The fly-spattered diner has been replaced by a cute
+“country-decorated” rendition of a Ho-Jos restaurant. All of the
+townspeople are attractive—healthy appearing and well-dressed. More
+important, the stratified society as depicted in Ball’s book is obviously
+dead in Sparta. Yet, anyone who had recently read the novel would surely
+question the notion of the stellar economic revitalization of the South as
+depicted in the television show.</p><p>
+All of the neighborhoods shown in the show are well-cared for and pretty. 
+Virgil Tibbs, on a detective’s salary, lives in a large and imposing home. 
+(The white woman who was raped appears to be an aberration in this ideal
+and homogenized town.) In short, one eventually comes to the conclusion
+that Sparta is not a reflection of an ’80s Southern town—or any town
+anywhere for that matter. Then the truly important questions emerge: Why
+are the real Sparta and all the people in it white-washed? What happened
+to the concept of hero as delineated by Ball’s Tibbs? Why is the mediocre
+intellect of Gillespie now depicted as firmly in control?</p><p>
+“In the Heat of the Night”—the television show—is most disturbing for its
+mindlessness and lack of integrity. As a reflection of the concerns and
+preoccupations of the ’80s it is (one hopes) grossly deficient. As a
+re-written “history” of the characters of Gillespie and Tibbs, it stands
+as the worst kind of propaganda or as an Orwellian nightmare come true.</p>
+<h4><i>Some Questions for Students:</i></h4>
+</a><dl><a name="c"><dt>1. Why does John Ball choose an omniscient point of view to tell
+his story? Why is the focus on Sam Woods’ thoughts rather than those of
+Gillespie or Tibbs? 
+</dt><dt>2. What qualities enable Virgil Tibbs to solve the case? Is Tibbs
+heroic? Explain. In what ways is Gillespie deficient? 
+</dt><dt>3. Why do the town fathers want a quick closure to the murder case?
+</dt><dt>4. Describe racism as depicted in <i>In the Heat of the Night.</i> 
+Does the author depict a variety of racist attitudes? Explain. Does the
+author
+suggest reasons for the existence of racism? 
+</dt><dt>5. Discuss the social structure and the economic conditions of Wells. How are these conditions related to racism?
+</dt><dt>6. Discuss the motive for murder. Who or what is to blame for the death of Mantoli?
+</dt><dt>7. Do any of the characters “grow” during the course of the novel?
+</dt><dt>8. Is the novel hopeful? Explain.
+</dt><dt>9. Is Wells realistically depicted as a Southern town of the ’60s? Explain. Do you think John Ball renders a truthful picture of time and place ? If so, to what purpose? In what ways is the novel dated? Is it? Explain.
+</dt><dt>10. Did you learn anything from reading <i>In the Heat of the
+Night?</i> Was it educational and entertaining?
+</dt><dt>11. Compare/contrast the criminal motives depicted in the novel and
+the television show with regard to believability and/or realism. 
+</dt><dt>12. Compare and contrast Bubba and Sam Woods. Is one better delineated
+than the other? Explain. 
+</dt><dt>13. Contrast Wells and Sparta. How do you account for the apparent
+differences? 
+</dt><dt>14.Contrast the ways in which the varying characters of Virgil Tibbs
+(novel and television show) react to attitudes of racism. 
+</dt><dt>15.Is the Howard Rollins’ characterization of Virgil Tibbs heroic? Explain.
+</dt><dt>16.Is the Gillespie character white-washed for the television show? (Why is he so different from the original?)
+</dt><dt>17.Compare/contrast the (intended and unintended) racist attitudes depicted in the television show and novel.
+</dt><dt>18. Does the television show present a truthful rendering of time and place? Explain.
+</dt><dt>19.Which was more disturbing—the television show or the novel?
+</dt></a><dt><a name="c">20. Compare and contrast the show and the novel with respect to educational usefulness and entertainment value.
+</a><center><a name="c"></a><div align="right"><a name="c"></a><p><a name="c">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+<hr/>
+<a name="d">
+</a></dt></dl><h3><a name="d">Spenser</a></h3><a name="d">
+Robert Parker’s Spenser is a curious amalgamation of opposite qualities.
+At once arrogant and self-deprecating, macho and reflective, Spenser
+combines the life of the body (physical action) with a life of the mind.
+In fact, his life seems to be dedicated
+to finding a balance of things both in himself and in the world at large.
+Though the paradox of Spenser—as seen in his passionate interest in life
+and his equally apparent self-destructive tendencies—remind one of the
+complex character of Sherlock Holmes
+and other detectives, for that matter, Spenser is essentially new. He is
+not the cold, scientific cynic portrayed by Holmes, nor is he the lone,
+reactive idealist portrayed by Travis McGee. 
+<p>
+Spenser is a philosopher who has found no answers for living life; rather,
+he is one who continually seeks new questions. He is at once a mundane man
+and a super man—one is never sure which. Perhaps this, too, is the point.
+With the creation of Spenser and, equally important, with the inclusion of
+myriad illustrations of a society of shifting ethical stances, Parker
+reminds us that it is the questioning that is important—not the answering.
+(Put another way, it seems that there are no firm answers anymore; 
+each will have to find his or her own way.)</p>
+<h4>“Spenser: for Hire” television show</h4>
+Though all of the nuances of character of Spenser as mentioned above
+cannot be articulated in a television show of an hour’s length, “Spenser: 
+for Hire” does reflect Robert Parker’s questioning stance. To be sure,
+Robert Urich in the role of Spenser has little time to question his own
+motives in the episode, “My Brother’s Keeper.” Yet, questions about the
+Vietnam War, and the larger question of the ethics of killing, are at
+least posed. Though the television show presents a superficial rendering
+of character, it illustrates a society doing battle with ethical dilemmas.
+Unlike “In the Heat of the Night”—the television show—“Spenser: for Hire”
+has some integrity and/or presupposes that its audience might be
+interested in issues of truth. 
+<p>
+We learn early on that Spenser (and Hawk) are veterans of the Vietnam War.
+Spenser initially gets involved with the case in question because of his
+own ambivalent feelings about war; specifically, he wonders whether or not
+to re-open and/or reflect upon the experience by renewing war-time
+friendships.</p><p>
+Interestingly enough, when the opportunity arises for reuniting a
+veteran-turned-Vietnam War author and the Vietnamese man he once saved,
+Spenser (admitting vicarious involvement) enthusiastically arranges the
+meeting. Unfortunately, as it turns out, Spenser has been unwittingly used
+by a Vietnamese thug. (This naturalized U.S. citizen wishes to suppress
+the book on Vietnam, for it exposes his own dirty-dealings both in Vietnam
+and in the United States.) Ultimately Spenser’s arranged meeting leads to
+the death of the Vietnam War author. Spenser arrives too late (on separate
+occasions) to prevent both the shooting of the author and the theft of the
+manuscript.</p><p>
+Two interesting sub-plots emerge during the course of the television show. 
+First, it seems that the author in question killed one of his own men in
+combat as an act of mercy, and thus faces certain reprisals should either
+he or the Vietnamese eye-witness to the act reveal the truth. Second, we
+learn that the author has remained estranged from a brother who chose to
+flee to Canada rather than engage in the fighting in Vietnam. The
+connection between these sub-plots becomes apparent when the pacifist
+resolve of the conscious objector is shaken by an encounter with his
+brother’s killer.</p><p>
+At this moment the ethical stances of both brothers are called into
+question, and one is prompted to ask many questions including: Is the
+answer of the pacifist—“One should never kill under any circumstances”—too
+easy? Are there people who need killing as
+Hawk states? Would war-time killing be equated with murder? Which brother
+displayed true courage? How much control do we essentially have over our
+ethical stances? Is mercy-killing ever acceptable? When mercy-killing is
+condoned, is a law disregarded? What are the dangers of bending a law? Do
+citizens ever know the truth of a war? These are only some of the
+questions the television show raises.</p><p>
+Though we eventually learn that the author finally accepted the stance of
+his pacifist brother, the right and the wrong of things is never answered.
+Rather, the program implies that ultimately each has to find his own way.
+And even this “answer” raises questions, for what are the repercussions of
+the acceptance of individualism and paradox as stated by Spenser near the
+show’s conclusion: “This shaking keeps me steady . . . I learn by going
+where I have to go”?</p>
+<h4>Mortal Stakes</h4>
+<i>Mortal Stakes</i> finds Spenser hired to discover whether or not a
+baseball
+hero, Marty Rabb, is throwing games. Spenser eventually learns: 1) that
+the pitcher is being blackmailed because of his wife’s dubious past 2)
+that Rabb is giving in to coercion despite serious misgivings and/or the
+realization that in so doing he is breaking his own code of honor. Mortal
+Stakes, like many of Parker’s books, is about honor and the ethical code
+of the individual. Its primary focus, however, is the notion of
+game-playing.
+The game of baseball provides an obvious symbol of modern reality and the
+American (male) experience. The patterns of behavior as articulated in
+Mortal Stakes include experiences of endurance and, equally important,
+experiences of competition. More important, the metaphor of the game
+enables Parker to describe the elemental struggle for power and dominance
+(amidst tried and tested rules and strategies.) One is constantly reminded
+of the dual nature of man in <i>Mortal Stakes</i>—of animal needs and
+civilized
+desires.<p>
+Spenser’s “game” has to do with stemming the tide of the most uncivilized,
+and he heartily plays the adult version of “cops and robbers.” Like
+Sherlock Holmes, Spenser is called to action when the “game is afoot.”
+Unlike Sherlock Holmes, he occasionally question his actions. For example,
+Spenser is easily felled by Linda Rabb’s accusation that he is childish or
+an adolescent. This leads him to question both his own desire for
+dominance and his acceptance of an imperfect society’s rules. However, a
+bit later in the story, he consoles himself with bourbon and the belief
+that the game in question is for mortal stakes—for the protection of
+family and of love.</p><p>
+It is Spenser’s dual nature—his macho as well as his reflective sides—that
+reminds us that in addition to themes of competition and dominance, Mortal
+Stakes also has to do with the idea of “going home” (as the late A.
+Bartlett Giamatti, Commissioner of Baseball and former President of Yale
+University, would describe baseball); <i>Mortal Stakes</i> illustrates
+man’s need
+for (and thus fierce protection of) nurture and love. Spenser’s
+relationship with Susan underscores his reverence for “home.” This
+acceptance of
+“home” as somehow transcendental prompts him to protect Linda and Marty
+Rabb at all costs. It is the balancing act that men are destined to
+perform (as nurturers and aggressors) which seems to interest Parker. Put
+another way, Spenser’s experience illustrates the paradox of morality
+and/or mirrors the human condition.</p><p>
+Perhaps the most interesting and crucial scenes in Mortal Stakes are those
+where Spenser, in reaction to the most contaminating influences of
+society, reverts to animal tactics of aggression and brutality. On one
+occasion he loses all control of himself and nearly beats to death a
+character who is (ironically) the very symbol of machismo. Though the
+victim is the essence of corruption, and thus invites Spenser’s wrath, one
+wonders whether Spenser is seeking to destroy as well that which reminds
+him of an integral part of himself. The beating follows Spenser’s coolly
+calculated elimination of those who sought to destroy the Rabbs; though
+Spenser was induced to commit these killings for self-preservation’s sake,
+he is clearly distressed by the acts—or by the necessary breaking of his
+code (never to kill people voluntarily).</p><p>
+<i>Mortal Stakes</i> illustrates the many dangers of “playing the game.”
+One may be contaminated by the very rule-breakers one seeks to dominate. 
+One’s ethical stances continue to shift. Yet, not to play the game—not to
+question, not to seek balance—is to be already dead. The game is, after
+all, for mortal stakes.</p>
+<h4><i>Some Questions for Students:</i></h4>
+</a><dl><a name="d"><dt>1. What personal reason prompts Spenser to arrange the meeting between the author and his Vietnamese friend in “My Brother’s Keeper”?
+</dt><dt>2. Why is the author’s brother included in the plot of the television show?
+</dt><dt>3. What questions does the show raise about the ethics of killing? (war-time, mercy, etc.)
+</dt><dt>4. Was the television show entertaining and educational?
+</dt><dt>5. Give examples of the dual nature of Spenser as articulated in the novel (macho/reflective, nurturer/aggressor).
+</dt><dt>6. <i>Mortal Stakes</i> revolves around the game of baseball. In what
+ways
+is the detective, too, playing a game? (Think of qualities of endurance, competition, desire to dominate.)
+</dt><dt>7. What prompts Spenser to question his own actions?
+</dt><dt>8. What is Spenser willing to risk in protecting what the Rabbs have? Why?
+</dt></a><dt><a name="d">9. In what ways does the novel reflect the human condition? (How does Spenser’s experience reflect the dilemmas facing modern man?)
+</a><center><a name="d"></a><div align="right"><a name="d"></a><p><a name="d">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+<hr/>
+<a name="e">
+</a></dt></dl><h3><a name="e">Additional Lesson Plans</a></h3><a name="e">
+</a><dl><a name="e"><dt>
+I. 		Film: <i>In the Heat of the Night</i>
+</dt><dt>		A. View in class (taking notes on the use of film elements; see 1988 unit, “America in Film and Fiction,” for discussion/definitions of film elements. Hand-out available for students.)
+</dt><dt>		B. Sample questions: film elements
+<dl>
+<dt>				1. Comment on the opening music. Is it appropriate? Explain. (background music)
+</dt><dt>				2. Why is Tibbs’ face not shown as he leaves the train? Why do his legs/feet fill the frame? (composition)
+</dt><dt>				3. Comment on the use of blue light as associated with Tibbs and orange light as associated with Gillespie. How is the use of lighting echoed in characters’ clothing? (lighting)
+</dt><dt>				4. Contrast Tibbs and Gillespie with regard to ways of speaking, posture, and movement. (dialogue/subject movement)
+</dt><dt>				5. Temperature (heat) is symbolic in this film. Explain. How is the feeling of heat projected in this film? (film stock)
+</dt><dt>				6. Comment on the use of high angle and low angle shots during the scene where Gillespie discovers that Tibbs is a police officer. (points of view)
+</dt><dt>				7. Discuss the use of shadows in interior settings (police station, cell). Who casts shadows (Tibbs or Gillespie)? Discuss the use of the cross motif (shadow on wall of cell). (lighting)
+</dt><dt>				8. A wide angle shot is used when Tibbs is leaving the Endicott home. How does this serve to enhance the character of Tibbs? (subject movement) Discuss the use of the pan shot in depicting the Endicott home. (camera movement)
+</dt><dt>				9. Discuss the use of synchronous and asynchronous sound during the scene where Tibbs is threatened by the town’s hoods.
+</dt><dt>				10. Why is Delores Purdy often depicted within a tilted frame? composition)
+</dt></dl>
+</dt><dt>		C. Questions: film adaptation of the novel
+</dt><dt>				1. Are Poitier/Steiger’s renditions of character true to Ball’s creation? Explain.
+</dt><dt>				2. Is the setting as portrayed in the film recognizable as the original setting? (Discuss the film ‘s renditions of setting and character.)
+</dt><dt>				3. Why were the following changes made in the film version?
+<dl>
+<dt>					a. Endicott (in the film version) is a racist and the number one suspect of Tibbs.
+</dt><dt>					b. Tibbs is confronted by physical danger many more times in the film version.
+</dt><dt>					c. The character of the abortionist is included in the film. (What is gained and lost with such changes?)
+</dt></dl>
+</dt><dt>		D.	 Film/television episode: Other than additional time (which enables better character delineation) what does film offer that television does not? Why? Could TV be doing more?
+</dt><dt>	II. 	Outside Reading
+</dt><dt>		A. Choose either a Parker novel or a Gardner novel for outside reading.
+</dt></a><dt><a name="e">		B. Follow-up assignment: report to be presented in class based on the following questions:
+<dl>
+<dt>				1. Why did you choose the Gardner or Parker novel?
+</dt><dt>				2. Briefly summarize the plot of the novel: crime committed, motive for crime, denouement as handled by detective
+</dt><dt> 3. Discuss particular issues which are raised during the course of
+the novel which seem to reflect its particular setting. Possibilities:
+family issues, drugs/alcoholism, political/government issues, racism,
+women’s issues, environmental issues, issues of morality. How are these
+issues made clear? What is the author’s stance regarding these issues? Are
+the issues viable today? 
+</dt></dl>
+</a><center><a name="e"></a><div align="right"><a name="e"></a><p><a name="e">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+<hr/>
+<a name="f">
+</a></dt></dl><h3><a name="f"><i>Student Reading List</i></a></h3><a name="f">
+Gardner, Erle Stanley. <i>The Case of the Spurious Spinster.</i> New York:
+Ballantine Books, 1961.
+<p>
+Ball, John. <i>In the Heat of the Night.</i> New York: Bantam Books, 1965.
+</p><p>
+Parker, Robert B. Mortal Stakes. New York: Dell Publishing, 1975.
+</p>
+</a><center><a name="f"></a><div align="right"><a name="f"></a><p><a name="f">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+<hr/>
+<a name="g">
+<h3>Teacher Reading List</h3>
+Tuska, Jon. <i>The Detective in Hollywood.</i> Garden City, New York:
+Doubleday
+and Company, 1978. Provides an interesting overview of film adaptations of
+detective fiction as well as original work.  <p>
+Winks, Robin W., ed. <i>Detective Fiction.</i> Woodstock, Vermont: Foul
+Play
+Press, 1988. Includes a collection of interesting essays on the subject of
+detective fiction and a helpful list of personal favorites (detective
+novels).  </p></a><center><a name="g"></a><div align="right"><a name="g"></a><p><a name="g"> </a><a href="#top">to the top of this
+chapter</a></p></div></center> <hr/> <a name="h"> <h3>Film</h3>
+Jewison, Norman, director. <i>In the Heat of the Night.</i> United
+Artists, 1967.
+(available on commercial videocassette) 
+</a><center><a name="h"></a><div align="right"><a name="h"></a><p><a name="h">
+</a><a href="#top">to the top of this chapter</a></p></div></center>
+</main>
