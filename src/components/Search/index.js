@@ -13,6 +13,10 @@ class Search extends React.Component{
       var s = document.getElementsByTagName('script')[0];
       s.parentNode.insertBefore(gcse, s);
     })();
+
+    window.onload = function(){
+      document.getElementById('gsc-i-id1').placeholder = 'SEARCH';
+      };
   }
 
   render(){
