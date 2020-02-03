@@ -13,10 +13,6 @@ class Search extends React.Component{
       var s = document.getElementsByTagName('script')[0];
       s.parentNode.insertBefore(gcse, s);
     })();
-
-    window.onload = function(){
-      document.getElementById('gsc-i-id1').placeholder = 'SEARCH';
-      };
   }
 
   render(){
@@ -26,7 +22,9 @@ class Search extends React.Component{
       className="d-sm-inline-block"
       id="siteSearch"
       dangerouslySetInnerHTML={{
-        __html: `<script async src="https://cse.google.com/cse.js?cx=014177378021644155909:u_pjrcixyzi"></script><div class="gcse-searchbox-only" data-resultsUrl="/search-results" data-newWindow="false" data-queryParameterName="q"></div>`,
+        __html: `  window.onload = function(){
+          document.getElementById('gsc-i-id1').placeholder = 'SEARCH';
+          }; <script async src="https://cse.google.com/cse.js?cx=014177378021644155909:u_pjrcixyzi"></script><div class="gcse-searchbox-only" data-resultsUrl="/search-results" data-newWindow="false" data-queryParameterName="q"></div>`,
       }}
     />
     {/* <script async src="https://cse.google.com/cse.js?cx=014177378021644155909:u_pjrcixyzi"></script> */}
