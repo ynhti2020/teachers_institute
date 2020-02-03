@@ -21,13 +21,15 @@ const timePage = () => (
       </p>
       <strong>VIEWING AND NAVIGATING THE TIMELINE</strong>
       <p>
-        <i>NB: This timeline is best viewed by maximizing the window of your browser. 
-        Also, due to the large number of entries, not all individual entries can be
-        seen in the timeline navigator window below. Therefore, navigating this timeline
-        is best done by using the mouse to click on the navigator window and drag the entries,
-        which move chronologically left to right throughout all of the categories below. 
-        You may also use the left-right arrow keys on your keyboard or those on either side 
-        of the main window to move left or right.</i>
+        <i>This timeline is best viewed by maximizing the window of your browser. 
+        The entries move chronologically left to right and are organized into six 
+        main categories in rows on the timeline navigator below the main display: 
+        Local (New Haven), Local Seminars offered by the Yale-New Haven Teachers 
+        Institute, Dissemination, Recognition, National, and National Seminars offered 
+        through the Yale National Initiative to strengthen teaching in public schools. 
+        Due to the large number of entries, not all individual entries can be seen at one 
+        time in the navigator. Therefore, going through this timeline is best done by using 
+        the left-right arrow keys on your keyboard to move earlier or later in each row.</i>
       </p>
       {/* <div className="row mt-4">
           <div className="col-sm-11 left-panel"> */}

@@ -25,7 +25,7 @@ const NationalDePage = () => (
                   </Link>
                 </strong>
                 <br />
-                <a target='_blank' href="/pdfs/ndp/NDP.pdf">
+                <a target='_blank' href="/pdfs/ndp/ndp.pdf">
                   (pdf version with photos)
                 </a>
                 <p>

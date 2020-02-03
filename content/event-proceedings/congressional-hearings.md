@@ -29,7 +29,7 @@ Teachers Institute, before the United States House of Representatives
 Appropriations Subcommittee on Interior and Related Agencies, April
 19, 1991.
 
-**<ul><li><p class="px-2"><a href="/pdfs/house-edu-labor-Mar90.pdf" target="_blank">Hearings on the Twenty-First Century Teachers Act, 1990</a></p></li></ul>**
+**<ul><li><p class="px-2"><a href="/pdfs/house-edu-labor-mar90.pdf" target="_blank">Hearings on the Twenty-First Century Teachers Act, 1990</a></p></li></ul>**
 
 On March 15, 1990, Institute Director James R. Vivian testified
 before the House Committee on Education and Labor hearings on "The
